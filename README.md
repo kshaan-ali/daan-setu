@@ -1,4 +1,4 @@
-DaanSetu - Blockchain-Based Donation Platform
+# DaanSetu - Blockchain-Based Donation Platform
 
 📌 Project Overview
 
@@ -6,7 +6,7 @@ DaanSetu is a decentralized crowdfunding platform built using React, TypeScript,
 
 🚀 Tech Stack
 
-Frontend: React, TypeScript, Tailwind CSS
+**Frontend:** React, TypeScript, Tailwind CSS
 
 Backend: Node.js, Express, MongoDB
 
